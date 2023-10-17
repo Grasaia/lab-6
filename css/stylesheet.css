@@ -18,10 +18,11 @@ h1{
 tr{
   font-family: 'Dancing Script', cursive;
   font-size:30px;
+  font-style: italic;
   }
 .planet{
-  width:200px;
-  height:200px;
+  width:180px;
+  height:180px;
   }
 #planets{
   margin-left:auto;
@@ -31,7 +32,7 @@ tr{
   text-align: center;
   }
 body{
-  background-color: #1c222b;
+  background-color: #000000;
   }
 table{
   border-collapse:collapse;
