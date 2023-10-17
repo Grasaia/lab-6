@@ -1,4 +1,4 @@
-h1, h2, h3, h1 {
+ h1 {
 	font-family: 'Caveat', cursive;
 }
 td, th {
@@ -19,7 +19,7 @@ tr{
   font-family: 'Dancing Script', cursive;
   font-size:30px;
   }
-.planet_img{
+.planet{
   width:200px;
   height:200px;
   }
