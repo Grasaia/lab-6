@@ -12,30 +12,30 @@ h1{
   text-align: center;
   color:red;
   }
-tr{
+  tr {
   font-family: 'Dancing Script', cursive;
   font-size:30px;
   font-style: italic;
   }
-.planet{
-  width:180px;
-  height:180px;
+  .planet {
+  width:220px;
+  height:220px;
   }
-#planets{
+  #planets {
   margin-left:auto;
   margin-right:auto;
   }
-.td_title{
+  .td_title {
   text-align: center;
   }
-body{
-  background-color: #000000;
+  body {
+  background-color: #1E1E1E;
   }
-table{
+  table {
   border-collapse:collapse;
   text-align: center;
   }
-td:not(.td_title){
+  td:not(.td_title) {
  font-family: 'IBM Plex Mono', monospace;
   font-size:15px;
   font-style:normal;
